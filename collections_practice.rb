@@ -1,3 +1,4 @@
 sort_array_asc(int)
-  int.sort
+  int.sort do |a, b|
+    a <=> b
 end
