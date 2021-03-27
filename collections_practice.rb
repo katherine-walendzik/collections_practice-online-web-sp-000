@@ -1,3 +1,3 @@
-sort_array_asc
+sort_array_asc(int)
 
 end
